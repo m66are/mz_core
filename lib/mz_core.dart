@@ -1,0 +1,1 @@
+library mz_core;
